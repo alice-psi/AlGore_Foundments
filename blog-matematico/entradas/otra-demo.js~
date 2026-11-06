@@ -1,0 +1,7 @@
+contenidoEntrada = `
+<section>
+    <h2>DEMOSTRACIÓN EN VIVO</h2>
+    <p>Demostración de cómo crear una nueva entrada</p>
+    <h3>Subtítulo</h3>
+    <p>Esto es un párrafo</p>
+</section>`;

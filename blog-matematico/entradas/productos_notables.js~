@@ -1,0 +1,6 @@
+contenidoEntrada = `
+<section>
+    <h2>Productos notables</h2>
+    <p>Una matriz es un arreglo rectangular de números...</p>
+    <p>Otro nuevo elemento</p>
+</section>`;
